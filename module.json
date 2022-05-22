@@ -12,12 +12,12 @@
     "url": "git@github.com:he2she/mbed-hal-st.git",
     "type": "git"
   },
-  "homepage": "https://github.com/ARMmbed/mbed-hal-st",
+  "homepage": "https://github.com/he2she/mbed-hal-st",
   "license": "Apache-2.0",
   "dependencies": {},
   "targetDependencies": {
     "stm32f4": {
-      "mbed-hal-st-stm32f4": "^1.0.1"
+      "mbed-hal-st-stm32f4": "he2she/mbed-hal-st-stm32f4#v1.3.5.1"
     }
   }
 }
