@@ -1,6 +1,6 @@
 {
   "name": "mbed-hal-st",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mbed low-level Hardware Abstraction Layer implementation for ST microcontrollers",
   "keywords": [
     "mbed",
@@ -9,7 +9,7 @@
   ],
   "author": "Martin Kojtal <martin.kojtal@arm.com>",
   "repository": {
-    "url": "git@github.com:ARMmbed/mbed-hal-st.git",
+    "url": "git@github.com:he2she/mbed-hal-st.git",
     "type": "git"
   },
   "homepage": "https://github.com/ARMmbed/mbed-hal-st",
@@ -17,7 +17,7 @@
   "dependencies": {},
   "targetDependencies": {
     "stm32f4": {
-      "mbed-hal-st-stm32f4": "^1.0.0"
+      "mbed-hal-st-stm32f4": "^1.0.1"
     }
   }
 }
